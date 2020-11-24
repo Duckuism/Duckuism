@@ -1,4 +1,4 @@
-## The only sin is mediocrity - Martha Graham
+### The only sin is mediocrity - Martha Graham
 
 <!--
 **Duckuism/Duckuism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
