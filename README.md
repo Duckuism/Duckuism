@@ -1,4 +1,5 @@
 ### 💎 The only sin is mediocrity - Martha Graham
+### 🐜 There is no royal road to geometry - Euclid
 
 <!--
 **Duckuism/Duckuism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
